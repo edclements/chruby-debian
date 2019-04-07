@@ -1,0 +1,17 @@
+Description: Fixes PREFIX variable
+ /usr/local is not a valid install destination
+Author: Ed Clements ed.clements@gmail.com
+Last-Update: 2019-04-07
+---
+This patch header follows DEP-3: http://dep.debian.net/deps/dep3/
+--- a/Makefile
++++ b/Makefile
+@@ -13,7 +13,7 @@
+ PKG=$(PKG_DIR)/$(PKG_NAME).tar.gz
+ SIG=$(PKG).asc
+ 
+-PREFIX?=$(DESTDIR)/usr/local
++PREFIX?=$(DESTDIR)/usr
+ DOC_DIR=$(PREFIX)/share/doc/$(PKG_NAME)
+ 
+ pkg:
