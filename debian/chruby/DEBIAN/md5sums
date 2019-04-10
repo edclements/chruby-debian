@@ -5,5 +5,6 @@ e4983eadc2c16a12cfdd5083d0e6b891  usr/share/chruby/chruby.sh
 becb8255edf02efeb5571803228d7d3d  usr/share/doc/chruby-0.3.9/ChangeLog.md.gz
 6e39427aee0bc3b2cf84ef0094cb34b8  usr/share/doc/chruby-0.3.9/LICENSE.txt
 f5091e98572bf79eab6680e83a9cc5a6  usr/share/doc/chruby-0.3.9/README.md.gz
-1be032f1b334a9a5490fda9b0ad593c8  usr/share/doc/chruby/changelog.gz
+babc9fb403accffbfc2bc2bcc4b465a3  usr/share/doc/chruby/changelog.Debian.gz
+becb8255edf02efeb5571803228d7d3d  usr/share/doc/chruby/changelog.gz
 9dd166f2705b65933324dca3d7c32fad  usr/share/doc/chruby/copyright
