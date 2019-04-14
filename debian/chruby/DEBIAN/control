@@ -2,7 +2,7 @@ Package: chruby
 Version: 0.3.9-1
 Architecture: amd64
 Maintainer: Ed Clements <ed.clements+deb@gmail.com>
-Installed-Size: 36
+Installed-Size: 32
 Section: ruby
 Priority: optional
 Homepage: https://github.com/postmodern/ruby-install

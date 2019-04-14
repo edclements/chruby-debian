@@ -2,7 +2,7 @@ Source: chruby
 Section: ruby
 Priority: optional
 Maintainer: Ed Clements <ed.clements+deb@gmail.com>
-Build-Depends: debhelper (>= 11)
+Build-Depends: debhelper (>= 9)
 Standards-Version: 4.1.3
 Homepage: https://github.com/postmodern/ruby-install
 #Vcs-Browser: https://salsa.debian.org/debian/chruby
