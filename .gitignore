@@ -5,3 +5,5 @@
 /test/opt/rubies
 /test/home/.zcompdump
 .pc
+debian/.debhelper
+debian/chruby.debhelper.log
